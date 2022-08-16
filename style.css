@@ -1,0 +1,21 @@
+*{
+    text-align:justify;
+    background-color: blanchedalmond;
+    border-style: 40px solid;
+    padding-left: 25px;
+}
+.calci{
+    justify-content: space-around;
+    font-size:xx-large;
+}
+#image{
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    right: 200px;
+}
+body{
+    border-style: double;
+    width:600px;
+    height: 400px;
+}
